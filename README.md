@@ -1,4 +1,4 @@
-![Logo](https://masternodes.me/assets/img/logo.png)
+![Logo](http://176.123.2.48:3001/images/logo.png)
 
 
 ### Links
