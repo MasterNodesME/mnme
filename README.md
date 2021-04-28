@@ -7,3 +7,4 @@
 - [Twitter]( )
 - [BitcoinTalk]()
 - [Explorer](http://176.123.2.48:3001/)
+- [White Paper](https://masternodes.me/whitepaper.pdf)
