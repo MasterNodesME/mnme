@@ -8,3 +8,7 @@
 - [BitcoinTalk](https://bitcointalk.org/index.php?topic=5333804)
 - [Explorer](http://176.123.2.48:3001/)
 - [White Paper](https://masternodes.me/whitepaper.pdf)
+
+### COIN INFORMATION
+
+- [NodeStats](https://nodestats.info/default.php?coin=mnme)
