@@ -1,0 +1,26 @@
+# /etc/conf.d/masternodesmed: config file for /etc/init.d/masternodesmed
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/masternodesme/masternodesme.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/masternodesmed"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/masternodesmed.pid"
+
+# Where to write masternodesmed data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/masternodesmed"
+
+# User and group to own masternodesmed process
+#BITCOIND_USER="masternodesme"
+#BITCOIND_GROUP="masternodesme"
+
+# Path to masternodesmed executable
+#BITCOIND_BIN="/usr/bin/masternodesmed"
+
+# Nice value to run masternodesmed under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
